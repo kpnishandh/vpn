@@ -20,9 +20,10 @@ To Monitoring the VPN Tunnel traffic and User actions:
 
 
 Summary:
-	• Covers the architecture of IPsec, detailing its components and protocols for securing internet communications.
-	• Explains IKE Phase 1 & 2, which are crucial for establishing and managing secure VPN connections between peers.
-	• Provides a step-by-step guide on configuring IPsec VPN between FortiGate firewalls, ensuring secure communication channels between networks or devices.
+• Covers the architecture of IPsec, detailing its components and protocols for securing internet communications.
+• Explains IKE Phase 1 & 2, which are crucial for establishing and managing secure VPN connections between peers.
+• Provides a step-by-step guide on configuring IPsec VPN between FortiGate firewalls, ensuring secure communication channels between networks or devices.
+
 This module equips administrators with essential knowledge and practical skills for setting up IPsec VPNs using FortiGate firewalls, enhancing network security, and enabling secure communication over the internet.
 
 
